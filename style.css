@@ -1,0 +1,31 @@
+*{
+	box-sizing: border-box;
+}
+
+body, html {
+	padding: 0px;
+	margin: 0px;
+}
+
+/* To Comment Out Code */
+
+body {
+	background-color: #222;
+	color: #fff;
+	padding: 20px;
+}
+
+.
+
+#Kikoo {
+	color: #ff0072;
+}
+.Sushi {
+	background-color: #dadb0d;
+}
+
+.introDiv {
+	padding: 10px;
+	background-color: skyblue;
+	font-family: sans-serif;
+}
